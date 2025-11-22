@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "htop",
+    "descripcion": "Monitor de procesos interactivo",
+    "version": "3.2.2",
+    "url": "https://servidor-externo.com/paquetes/htop_3.2.2.deb"
+  },
+  {
+    "nombre": "ncdu",
+    "descripcion": "Analizador de uso de disco",
+    "version": "1.16",
+    "url": "https://servidor-externo.com/paquetes/ncdu_1.16.deb"
+  }
+]
