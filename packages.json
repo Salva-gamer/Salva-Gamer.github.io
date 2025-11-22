@@ -10,5 +10,11 @@
     "descripcion": "Analizador de uso de disco",
     "version": "1.16",
     "url": "https://servidor-externo.com/paquetes/ncdu_1.16.deb"
+  },
+  {
+    "nombre": "bpt",
+    "descripcion": "Beta",
+    "version": "0.1.0.1",
+    "url": "https://servidor-externo.com/paquetes/bpt.deb"
   }
 ]
